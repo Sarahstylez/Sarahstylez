@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sarah Gee</h1>
-<h3 align="center">Innovative UX/UI Designer & Front-End Developer from Vancouver, BC</h3>
+<h3 align="center">Design Engineer & Webflow Developer from Vancouver, BC</h3>
 
-- 🔭 I’m currently working on [SoundMind](https://github.com/Sarahstylez/soundmind)
+- 🔭 I’m currently working on **My Portfolio Site~**
 
-- 🌱 I’m currently learning **Data Analytics: MySQL, Tableau**
+- 🌱 I’m currently learning **Client-First Certification for Finsweet**
 
 - 📝 I regularly write articles on [https://medium.com/@Sarahstylez](https://medium.com/@Sarahstylez)
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1g8h5pXOZQpC4eelkMmKrcazCQ9ff91ku/view?usp=sharing](https://drive.google.com/file/d/1g8h5pXOZQpC4eelkMmKrcazCQ9ff91ku/view?usp=sharing)
 
-- ⚡ Fun fact **I am a creative through-and-through: from painting, to hair design, and now ux/ui design/front-end development 🎨✨**
+- ⚡ Fun fact **I am a creative through-and-through: from painting, to hair design, and now web design & development 🎨✨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
