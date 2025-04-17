@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@Sarahstylez](https://medium.com/@Sarahstylez)
 
-- 💬 Ask me about **Figma, Sass**
+- 💬 Ask me about **Figma, SCSS, Webflow**
 
 - 📫 How to reach me **sarah.gee0905@gmail.com**
 
