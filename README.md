@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **sarah.gee0905@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1g8h5pXOZQpC4eelkMmKrcazCQ9ff91ku/view?usp=sharing](https://drive.google.com/file/d/1g8h5pXOZQpC4eelkMmKrcazCQ9ff91ku/view?usp=sharing)
-
 - ⚡ Fun fact **I am a creative through-and-through: from painting, to hair design, and now web design & development 🎨✨**
 
 <h3 align="left">Connect with me:</h3>
