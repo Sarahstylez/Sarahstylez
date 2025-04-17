@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarah Gee</h1>
-<h3 align="center">Design Engineer & Webflow Developer from Vancouver, BC</h3>
+<h3 align="center">Design Engineer from Vancouver, BC</h3>
 
 - 🔭 I’m currently working on **My Portfolio Site~**
 
